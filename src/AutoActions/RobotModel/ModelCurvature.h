@@ -1,0 +1,13 @@
+//
+// Created by Abiel on 9/5/18.
+//
+
+#ifndef BOTBUSTERSREBIRTH_MODELCURVATURE_H
+#define BOTBUSTERSREBIRTH_MODELCURVATURE_H
+
+class ModelCurvature {
+
+};
+
+
+#endif //BOTBUSTERSREBIRTH_MODELCURVATURE_H

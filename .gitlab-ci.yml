@@ -1,0 +1,5 @@
+gradle-rio:
+    image: botbusters/gradlerio-docker:2019
+    
+    script:
+       - make all
